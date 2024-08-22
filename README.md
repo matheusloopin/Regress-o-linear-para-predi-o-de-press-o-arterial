@@ -23,5 +23,7 @@ Desenvolver um modelo de regressão linear para prever os níveis de pressão ar
 # Estrutura do Projeto
 
 **Data Preprocessing:** Tratamento dos dados, incluindo normalização e codificação de variáveis categóricas.
+
 **Modelagem:** Desenvolvimento e treinamento do modelo de regressão linear.
+
 **Avaliação do Modelo:** Análise do desempenho do modelo e discussão sobre a sua aplicabilidade.
